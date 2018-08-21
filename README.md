@@ -11,7 +11,7 @@
 ## Cara Pakai:
 1. Input nilai k pada class KNN
 2. Assign ke dalam variabel baru, misalkan 'hasil'.
-> hasil=KnnModel(3)
+> hasil=KnnModel(k)
 3. Input data training
 > hasil.import_data_train("namafile.csv")
 4. Input data testing
